@@ -1,0 +1,15 @@
+D:\Atestat Info\Maze Game\Maze Game\obj\x86\Debug\Maze Game.csprojResolveAssemblyReference.cache
+D:\Atestat Info\Maze Game\Maze Game\obj\x86\Debug\Maze_Game.Finish.resources
+D:\Atestat Info\Maze Game\Maze Game\obj\x86\Debug\Maze_Game.Interface.resources
+D:\Atestat Info\Maze Game\Maze Game\obj\x86\Debug\Maze_Game.Intermediar12.resources
+D:\Atestat Info\Maze Game\Maze Game\obj\x86\Debug\Maze_Game.Level1.resources
+D:\Atestat Info\Maze Game\Maze Game\obj\x86\Debug\Maze_Game.Level2.resources
+D:\Atestat Info\Maze Game\Maze Game\obj\x86\Debug\Maze_Game.Properties.Resources.resources
+D:\Atestat Info\Maze Game\Maze Game\obj\x86\Debug\Maze_Game.YouDied.resources
+D:\Atestat Info\Maze Game\Maze Game\obj\x86\Debug\Maze Game.csproj.GenerateResource.Cache
+D:\Atestat Info\Maze Game\Maze Game\bin\Debug\Maze Game.exe
+D:\Atestat Info\Maze Game\Maze Game\bin\Debug\Maze Game.pdb
+D:\Atestat Info\Maze Game\Maze Game\obj\x86\Debug\Maze Game.exe
+D:\Atestat Info\Maze Game\Maze Game\obj\x86\Debug\Maze Game.pdb
+D:\Atestate\Atestat Info\Maze Game\Maze Game\obj\x86\Debug\Maze Game.exe
+D:\Atestate\Atestat Info\Maze Game\Maze Game\obj\x86\Debug\Maze Game.pdb
